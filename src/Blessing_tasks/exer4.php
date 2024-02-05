@@ -1,3 +1,8 @@
+<?php
+$title = "exer4 : control flow & loop";
+include 'exer2/header.php';
+?>
+
 <form method="post" action="">
         Name: <input type="text" name="name"><br>
         Age: <input type="number" name="age"><br>
@@ -70,3 +75,6 @@ foreach ($myArray as $element) {
     echo "$element <br>";
 }
 ?>
+
+<?php
+include "exer2/footer.php"; ?>
