@@ -10,7 +10,7 @@
 <body>
 <h3>3.1 Write PHP code to output the following message: Hello world! My name is "David"
 </h3>
-<?php include"Exer2/header.php"; ?>
+
 
 <?php
     // Use backslashes to escape double quotes or use single quotes
